@@ -1,6 +1,7 @@
 {
   "name": "node",
   "version": "1.0.0",
+  "type": "module",
   "description": "Repository for learning node.js :D",
   "main": "server.js",
   "scripts": {
